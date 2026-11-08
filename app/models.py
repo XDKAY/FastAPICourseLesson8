@@ -1,4 +1,4 @@
-__all__ = ("FeedackRequestScheme", "FeedackResponseScheme", )
+__all__ = ("FeedackRequestScheme", "FeedbackResponseScheme", )
 
 
 from typing import Annotated, Optional
